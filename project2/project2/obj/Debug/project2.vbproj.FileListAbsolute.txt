@@ -1,0 +1,22 @@
+G:\Sy 4 th sem\VB . net\project2\project2\bin\Debug\project2.exe.config
+G:\Sy 4 th sem\VB . net\project2\project2\obj\Debug\project2.exe
+G:\Sy 4 th sem\VB . net\project2\project2\obj\Debug\project2.xml
+G:\Sy 4 th sem\VB . net\project2\project2\obj\Debug\project2.pdb
+F:\Sy 4 th sem\VB . net\project2\project2\bin\Debug\project2.exe.config
+F:\Sy 4 th sem\VB . net\project2\project2\obj\Debug\project2.exe
+F:\Sy 4 th sem\VB . net\project2\project2\obj\Debug\project2.xml
+F:\Sy 4 th sem\VB . net\project2\project2\obj\Debug\project2.pdb
+F:\Sy 4 th sem\VB . net\project2\project2\bin\Debug\Library Management .mdf
+F:\Sy 4 th sem\VB . net\project2\project2\bin\Debug\Library Management _log.ldf
+F:\Sy 4 th sem\VB . net\project2\project2\bin\Debug\project2.exe
+F:\Sy 4 th sem\VB . net\project2\project2\bin\Debug\project2.pdb
+F:\Sy 4 th sem\VB . net\project2\project2\bin\Debug\project2.xml
+F:\Sy 4 th sem\VB . net\project2\project2\obj\Debug\project2.Book.resources
+F:\Sy 4 th sem\VB . net\project2\project2\obj\Debug\project2.Borrow.resources
+F:\Sy 4 th sem\VB . net\project2\project2\obj\Debug\project2.Login.resources
+F:\Sy 4 th sem\VB . net\project2\project2\obj\Debug\project2.MDIParent1.resources
+F:\Sy 4 th sem\VB . net\project2\project2\obj\Debug\project2.Resources.resources
+F:\Sy 4 th sem\VB . net\project2\project2\obj\Debug\project2.Student.resources
+F:\Sy 4 th sem\VB . net\project2\project2\obj\Debug\project2.vbproj.GenerateResource.Cache
+F:\Sy 4 th sem\VB . net\project2\project2\obj\Debug\project2.vbproj.AssemblyReference.cache
+F:\Sy 4 th sem\VB . net\project2\project2\obj\Debug\project2.vbproj.CoreCompileInputs.cache

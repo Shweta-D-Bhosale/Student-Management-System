@@ -1,2 +1,2 @@
 # Student-Management-System
-The Project is developed in Vb.net
+The Project is developed in VB.NET
